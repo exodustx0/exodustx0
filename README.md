@@ -10,6 +10,7 @@ Dev skills (sorted by proficiency):
 * Typescript
 * Client-side Javascript (browser)
 * HTML5/CSS3
+* SPC700 ASM
 
 Learning (sorted by urgency):
 
