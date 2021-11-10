@@ -1,22 +1,16 @@
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
-###### ~ exodust = externally-manifested thoughts ~
+Things I'm interested in:
 
-I'm relatively new to the trade of open-sourcery, but it's one I strongly believe in. My stats may not exactly be impressive as of writing, but I fully intend to work on that in the near future. Looking forward to erasing this message :)
+* TypeScript — my precious; just please, _please,_ no browser stuff
+* Go — in progress, but happily so
+* SPC700 ASM — yes, the SNES audio CPU
+* Interacting with web APIs — the bad ones make me shudder in delight
+* (De-)serialising binary data structures — couldn't ask for better puzzles
+* Learning through dissection — I **WILL** dive into your low-level libraries
+* Good food, non-plastic music, books about time loops, the occasional speedrun (perhaps live again some day)
+* All the ponies — don't worry, you're cute too
 
-Dev skills (sorted by proficiency):
+Learning in progress. Always learning. As such, here be ~dragons~ ponies.
 
-* Server-side Javascript (Node.js)
-* Typescript
-* Client-side Javascript (browser)
-* HTML5/CSS3
-* SPC700 ASM
-
-Learning (sorted by urgency):
-
-* Git
-* Webpack.js
-* Vue.js
-* C++
-
-[![Exodustx0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exodustx0&count_private=true&show_icons=true&theme=onedark&bg_color=21.5,282c34,0a0b1a)](https://github.com/anuraghazra/github-readme-stats)
+[![exodustx0's GitHub stats](https://github-readme-stats.vercel.app/api?username=exodustx0&custom_title=%3Cexodustx0%27s%20GitHub%20stats%3E&count_private=true&show_icons=true&hide_rank=true&theme=onedark&bg_color=21.5,282c34,0a0b1a)](https://github.com/anuraghazra/github-readme-stats)
