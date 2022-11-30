@@ -13,6 +13,7 @@ As far as coding is concerned, I currently struggle to describe myself as anythi
   - I hope to one day write an entire one-stop-shop SNES dev environment.
 - Human-theory pen-and-paper puzzle solvers.
 - Automated scanning of file corruption (_extremely_ barebones and built just to meet my own specific usecase).
+- File formats! All the file formats! Give me your file formats!
 - The Win32 API.
 - Discord bots.
 - Web API for text-to-speech system.
